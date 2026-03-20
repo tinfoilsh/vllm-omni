@@ -1,0 +1,11 @@
+.git
+.github
+.buildkite
+.pytest_cache
+__pycache__
+*.pyc
+docs
+benchmarks
+tests
+tools
+apps
